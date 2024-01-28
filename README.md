@@ -1,16 +1,64 @@
-### Hi there 👋
+# Hi there 👋, I'm Jenish Adhikari
 
-<!--
-**jenish2060/jenish2060** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently an undergraduate student.
+- 🌱 I’m currently exploring various areas within web-development.
+- 📫 How to reach me [@\_jenishadhikari](https://twitter.com/_jenishadhikari)
 
-Here are some ideas to get you started:
+## Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  
+<img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10;" />
+<img align="left" alt="CSS3" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10;" />
+<img align="left" alt="Bootstrap" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10;" />
+<img align="left" alt="Tailwind" width="32px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="padding-right:10;" />
+
+<img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10;" />
+<img align="left" alt="React" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10;" />
+
+<img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="padding-right:10;" />
+
+<img align="left" alt="Figma" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10;" />
+<img align="left" alt="Canva" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10;" />
+
+<img align="left" alt="Visual Studio Code" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10;" />
+<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10;" />
+<img align="left" alt="GitHub" width="32px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10;" />
+
+</div>
+<br>
+<br>
+
+## Let's Connect
+
+<p align="left">
+<a href="https://twitter.com/_jenishadhikari" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="_jenishadhikari" height="40" width="40" /></a>
+</p>
+
+## My Github Status
+
+<div
+  style="
+    display: flex;
+    flex-direction: row;
+  "
+>
+<div>
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=jenish2060&&show_icons=true&count_private=true&theme=dark&border_radius=15%&hide_border=true"
+    />
+    <img
+      align="left"
+      src="https://streak-stats.demolab.com/?user=jenish2060&theme=dark&border_radius=5%&hide_border=true"
+      alt="Jenish Adhikari"
+      width="450px"
+    />
+</div>
+<div>
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=jenish2060&show_icons=true&locale=en&theme=dark&border_radius=15%&hide_border=true"
+      alt="jenish2060"
+    />
+</div>
+</div>
