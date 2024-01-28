@@ -32,7 +32,7 @@
 ## Let's Connect
 
 <p align="left">
-<a href="https://twitter.com/_jenishadhikari" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="_jenishadhikari" height="40" width="40" /></a>
+<a href="https://twitter.com/_jenishadhikari" target="_blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="_jenishadhikari" height="40" width="40" /></a>
 </p>
 
 ## My Github Status
