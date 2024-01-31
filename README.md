@@ -30,10 +30,14 @@
 <br>
 
 ## Let's Connect
-
-<p align="left">
-<a href="https://twitter.com/_jenishadhikari" target="_blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="_jenishadhikari" height="40" width="40" /></a>
-</p>
+  <a href="https://linkedin.com/in/jenish-/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin handle" height="40" width="40"/>
+  </a>  &nbsp;
+<a href="mailto:jenishadhikari2060@gmail.com" target="_blank" rel="noreferrer"> 
+      <img src="https://cdn.iconscout.com/icon/free/png-512/free-mail-781-461597.png?f=webp&w=256"
+            alt="gmail" height="40" width="40"/>
+  </a>  &nbsp;
+<a href="https://twitter.com/_jenishadhikari" target="_blank"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" alt="_jenishadhikari" height="40" width="40" /></a>
 
 ## My Github Status
 
