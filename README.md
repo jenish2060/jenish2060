@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently an undergraduate student.
 - 🌱 I’m currently exploring various areas within web-development.
-- 📫 How to reach me [@\adhikarijenish](https://www.linkedin.com/in/adhikarijenish/)
+- 📫 How to reach me [@adhikarijenish](https://www.linkedin.com/in/adhikarijenish/)
 
 ## Languages and Tools
 
