@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently an undergraduate student.
 - 🌱 I’m currently exploring various areas within web-development.
-- 📫 How to reach me [@\_jenishadhikari](https://twitter.com/_jenishadhikari)
+- 📫 How to reach me [@\adhikarijenish](https://www.linkedin.com/in/adhikarijenish/)
 
 ## Languages and Tools
 
@@ -30,7 +30,7 @@
 <br>
 
 ## Let's Connect
-  <a href="https://linkedin.com/in/jenish-/" target="_blank" rel="noreferrer">
+  <a href="https://www.linkedin.com/in/adhikarijenish/" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin handle" height="40" width="40"/>
   </a>  &nbsp;
 <a href="mailto:jenishadhikari2060@gmail.com" target="_blank" rel="noreferrer"> 
