@@ -51,12 +51,12 @@
     <img
       src="https://github-readme-stats.vercel.app/api?username=jenish2060&&show_icons=true&count_private=true&theme=dark&border_radius=15%&hide_border=true"
     />
-    <img
+<!--     <img
       align="left"
       src="https://streak-stats.demolab.com/?user=jenish2060&theme=dark&border_radius=5%&hide_border=true"
       alt="Jenish Adhikari"
       width="450px"
-    />
+    /> -->
 </div>
 <div>
     <img
